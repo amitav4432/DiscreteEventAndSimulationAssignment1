@@ -1,0 +1,85 @@
+00:00:00:000
+State for model input_reader_ReqIn is next time: 00:00:00:000
+State for model input_reader_dataIn is next time: 00:00:00:000
+State for model input_reader_ackIn is next time: 00:00:00:000
+State for model FileServerSender1 is  index: 0 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+00:00:00:000
+State for model input_reader_ReqIn is next time: 00:00:10:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 0 & transmittingToReceiver: 0 0 & ackFromReceiver: 0 0 & requestIn: 0
+00:00:10:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 1 & transmittingToReceiver: 0 0 & ackFromReceiver: 10 0 & requestIn: 0
+00:00:13:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 1 & transmittingToReceiver: 0 0 & ackFromReceiver: 10 0 & requestIn: 0
+00:00:20:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 2 & transmittingToReceiver: 0 0 & ackFromReceiver: 50 1 & requestIn: 0
+00:00:23:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 2 & transmittingToReceiver: 0 0 & ackFromReceiver: 50 1 & requestIn: 0
+00:00:30:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 3 & transmittingToReceiver: 0 0 & ackFromReceiver: 60 0 & requestIn: 0
+00:00:33:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: 00:00:10:000
+State for model input_reader_ackIn is next time: 00:00:10:000
+State for model FileServerSender1 is  index: 3 & transmittingToReceiver: 0 0 & ackFromReceiver: 60 0 & requestIn: 0
+00:00:40:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:00:43:000
+State for model input_reader_ReqIn is next time: 00:01:20:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 4 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:01:30:000
+State for model input_reader_ReqIn is next time: 00:00:30:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 5 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:02:00:000
+State for model input_reader_ReqIn is next time: 00:00:30:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 6 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:02:30:000
+State for model input_reader_ReqIn is next time: 00:00:30:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 7 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:03:00:000
+State for model input_reader_ReqIn is next time: 00:00:30:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 8 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:03:30:000
+State for model input_reader_ReqIn is next time: 00:00:30:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 9 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:04:00:000
+State for model input_reader_ReqIn is next time: 00:36:30:000
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 10 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
+00:40:30:000
+State for model input_reader_ReqIn is next time: inf
+State for model input_reader_dataIn is next time: inf
+State for model input_reader_ackIn is next time: inf
+State for model FileServerSender1 is  index: 11 & transmittingToReceiver: 0 0 & ackFromReceiver: 90 1 & requestIn: 0
