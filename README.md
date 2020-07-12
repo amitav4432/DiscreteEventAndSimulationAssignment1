@@ -5,20 +5,18 @@ This folder contains the OFFLINE FILE TRANSFER DEVS model implemented in Cadmium
 ## FILES ORGANIZATION
 	OfflineFileTransferSimulation.doc
 	OFT.xml
-  DEVSModelForm
+  	DEVSModelForm
 	makefile
-
 ### atomics [This folder contains atomic models implemented in Cadmium]
 	FileServerSender.hpp
 	FileServerReceiver.hpp	
 	receiver.hpp
 	sender.hpp
 	subnet.hpp
-### bin [This folder will be created automatically the first time you compile the poject.
-     It will contain all the executables]
-	build [This folder will be created automatically the first time you compile the poject.
-       It will contain all the build files (.o) generated during compilation]
-	data_structures [This folder contains message data structure used in the model]
+### bin [This folder will be created automatically the first time you compile the poject. It will contain all the executables]
+### build [This folder will be created automatically the first time you compile the poject.
+	It will contain all the build files (.o) generated during compilation]
+### data_structures [This folder contains message data structure used in the model]
 	message.hpp
 	message.cpp
 ### input_data [This folder contains all the input data to run the model and the tests]
@@ -65,7 +63,6 @@ This folder contains the OFFLINE FILE TRANSFER DEVS model implemented in Cadmium
 	main_subnet_test.cpp
 ### top_model [This folder contains the Offline_File_transfer_Simulation top model]	
 	main.cpp
-	
 ## STEPS
 	0 - OfflineFileTransferSimulation.doc contains the explanation of this model
 
@@ -88,7 +85,6 @@ This folder contains the OFFLINE FILE TRANSFER DEVS model implemented in Cadmium
 		--Please rename the output files before running the next test to retain the output of this test case ("offlineFT_output_messages.txt", offlineFT_output_state.txt) 
 	  	3.2.2--For the Test Scenario for Main Model when there is no download request (Zero Request Input) and different values of controlIn.
 		./Main_Model_Zero_Request.sh
-
 	  	3.2.3--For the Test Scenario for FileServerSender atomic model when there is no download request (Zero Request Input)
 		./FileServerSender_zero_request.sh
 		--Please rename the output files before running the next test to retain the output of this test case ("FileServerSender_test_output_messages.txt", 		 FileServerSender_test_output_state.txt) 
